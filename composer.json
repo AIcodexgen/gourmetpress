@@ -1,0 +1,9 @@
+{
+    "name": "gourmetpress/plugin",
+    "description": "Restaurant ordering plugin",
+    "autoload": {
+        "psr-4": {
+            "GourmetPress\\": "src/"
+        }
+    }
+}
